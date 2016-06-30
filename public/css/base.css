@@ -10,7 +10,9 @@ body {
 	box-shadow: 5px 5px rgba(0,0,0,0.1);
 }
 
-Code: Key Binding User
-		[
-		{ "keys": ["ctrl+i"], "command": "reindent", "args": {"single_line": false}}
-		]
+.quote{
+	font-weight: 200;
+	font-style: italic;
+	font-size: 1.5rem;
+}
+		
