@@ -22,4 +22,17 @@ img {
 	width: 50%;
 	max-width: 150px; 
 }
+
+a{
+	color:#ECF0f1;
+
+}
+a:visited{
+	color:#ECF0f1;
+
+}
+
+a:hover{
+	color:#2980b9;
+}
 		
